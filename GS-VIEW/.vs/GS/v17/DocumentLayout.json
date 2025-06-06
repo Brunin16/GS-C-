@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brued\\Documents\\Csharp\\GS-VIEW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F28940D-E665-4E94-B84C-010A7A089D97}|GS-VIEW\\GS-VIEW.csproj|c:\\users\\brued\\documents\\csharp\\gs-view\\gs-view\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F28940D-E665-4E94-B84C-010A7A089D97}|GS-VIEW\\GS-VIEW.csproj|solutionrelative:gs-view\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BF1241-EAF7-4080-9C3C-1FDB076141FA}|GS-Service\\GS-Service.csproj|c:\\users\\brued\\documents\\csharp\\gs-view\\gs-service\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BF1241-EAF7-4080-9C3C-1FDB076141FA}|GS-Service\\GS-Service.csproj|solutionrelative:gs-service\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BF1241-EAF7-4080-9C3C-1FDB076141FA}|GS-Service\\GS-Service.csproj|c:\\users\\brued\\documents\\csharp\\gs-view\\gs-service\\equipamentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BF1241-EAF7-4080-9C3C-1FDB076141FA}|GS-Service\\GS-Service.csproj|solutionrelative:gs-service\\equipamentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BF1241-EAF7-4080-9C3C-1FDB076141FA}|GS-Service\\GS-Service.csproj|c:\\users\\brued\\documents\\csharp\\gs-view\\gs-service\\energyconsumeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BF1241-EAF7-4080-9C3C-1FDB076141FA}|GS-Service\\GS-Service.csproj|solutionrelative:gs-service\\energyconsumeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BF1241-EAF7-4080-9C3C-1FDB076141FA}|GS-Service\\GS-Service.csproj|c:\\users\\brued\\documents\\csharp\\gs-view\\gs-service\\appuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BF1241-EAF7-4080-9C3C-1FDB076141FA}|GS-Service\\GS-Service.csproj|solutionrelative:gs-service\\appuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A493B35E-FFBC-437E-9EFC-B568063DB02D}|GS-Repository\\GS-Repository.csproj|c:\\users\\brued\\documents\\csharp\\gs-view\\gs-repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A493B35E-FFBC-437E-9EFC-B568063DB02D}|GS-Repository\\GS-Repository.csproj|solutionrelative:gs-repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A493B35E-FFBC-437E-9EFC-B568063DB02D}|GS-Repository\\GS-Repository.csproj|c:\\users\\brued\\documents\\csharp\\gs-view\\gs-repository\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A493B35E-FFBC-437E-9EFC-B568063DB02D}|GS-Repository\\GS-Repository.csproj|solutionrelative:gs-repository\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A493B35E-FFBC-437E-9EFC-B568063DB02D}|GS-Repository\\GS-Repository.csproj|c:\\users\\brued\\documents\\csharp\\gs-view\\gs-repository\\equipamentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A493B35E-FFBC-437E-9EFC-B568063DB02D}|GS-Repository\\GS-Repository.csproj|solutionrelative:gs-repository\\equipamentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A493B35E-FFBC-437E-9EFC-B568063DB02D}|GS-Repository\\GS-Repository.csproj|c:\\users\\brued\\documents\\csharp\\gs-view\\gs-repository\\energyconsumerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A493B35E-FFBC-437E-9EFC-B568063DB02D}|GS-Repository\\GS-Repository.csproj|solutionrelative:gs-repository\\energyconsumerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A493B35E-FFBC-437E-9EFC-B568063DB02D}|GS-Repository\\GS-Repository.csproj|c:\\users\\brued\\documents\\csharp\\gs-view\\gs-repository\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A493B35E-FFBC-437E-9EFC-B568063DB02D}|GS-Repository\\GS-Repository.csproj|solutionrelative:gs-repository\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98563E9A-9489-4729-A6F3-EB9F97232BC1}|GS-Model\\GS-Model.csproj|c:\\users\\brued\\documents\\csharp\\gs-view\\gs-model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98563E9A-9489-4729-A6F3-EB9F97232BC1}|GS-Model\\GS-Model.csproj|solutionrelative:gs-model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98563E9A-9489-4729-A6F3-EB9F97232BC1}|GS-Model\\GS-Model.csproj|c:\\users\\brued\\documents\\csharp\\gs-view\\gs-model\\equipament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98563E9A-9489-4729-A6F3-EB9F97232BC1}|GS-Model\\GS-Model.csproj|solutionrelative:gs-model\\equipament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A493B35E-FFBC-437E-9EFC-B568063DB02D}|GS-Repository\\GS-Repository.csproj|c:\\users\\brued\\documents\\csharp\\gs-view\\gs-repository\\gs-repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A493B35E-FFBC-437E-9EFC-B568063DB02D}|GS-Repository\\GS-Repository.csproj|solutionrelative:gs-repository\\gs-repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98563E9A-9489-4729-A6F3-EB9F97232BC1}|GS-Model\\GS-Model.csproj|c:\\users\\brued\\documents\\csharp\\gs-view\\gs-model\\energyconsume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98563E9A-9489-4729-A6F3-EB9F97232BC1}|GS-Model\\GS-Model.csproj|solutionrelative:gs-model\\energyconsume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98563E9A-9489-4729-A6F3-EB9F97232BC1}|GS-Model\\GS-Model.csproj|c:\\users\\brued\\documents\\csharp\\gs-view\\gs-model\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98563E9A-9489-4729-A6F3-EB9F97232BC1}|GS-Model\\GS-Model.csproj|solutionrelative:gs-model\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BF1241-EAF7-4080-9C3C-1FDB076141FA}|GS-Service\\GS-Service.csproj|c:\\users\\brued\\documents\\csharp\\gs-view\\gs-service\\gs-service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{71BF1241-EAF7-4080-9C3C-1FDB076141FA}|GS-Service\\GS-Service.csproj|solutionrelative:gs-service\\gs-service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98563E9A-9489-4729-A6F3-EB9F97232BC1}|GS-Model\\GS-Model.csproj|c:\\users\\brued\\documents\\csharp\\gs-view\\gs-model\\gs-model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{98563E9A-9489-4729-A6F3-EB9F97232BC1}|GS-Model\\GS-Model.csproj|solutionrelative:gs-model\\gs-model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\brued\\Documents\\Csharp\\GS-VIEW\\GS-Repository\\PersonRepository.cs",
+              "RelativeDocumentMoniker": "GS-Repository\\PersonRepository.cs",
+              "ToolTip": "C:\\Users\\brued\\Documents\\Csharp\\GS-VIEW\\GS-Repository\\PersonRepository.cs",
+              "RelativeToolTip": "GS-Repository\\PersonRepository.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAmwBkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T05:25:24.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnergyConsumeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\brued\\Documents\\Csharp\\GS-VIEW\\GS-Repository\\EnergyConsumeRepository.cs",
+              "RelativeDocumentMoniker": "GS-Repository\\EnergyConsumeRepository.cs",
+              "ToolTip": "C:\\Users\\brued\\Documents\\Csharp\\GS-VIEW\\GS-Repository\\EnergyConsumeRepository.cs",
+              "RelativeToolTip": "GS-Repository\\EnergyConsumeRepository.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAmwBoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T05:31:31.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EquipamentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\brued\\Documents\\Csharp\\GS-VIEW\\GS-Repository\\EquipamentRepository.cs",
+              "RelativeDocumentMoniker": "GS-Repository\\EquipamentRepository.cs",
+              "ToolTip": "C:\\Users\\brued\\Documents\\Csharp\\GS-VIEW\\GS-Repository\\EquipamentRepository.cs",
+              "RelativeToolTip": "GS-Repository\\EquipamentRepository.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAA2wBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T05:28:09.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\brued\\Documents\\Csharp\\GS-VIEW\\GS-Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "GS-Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\brued\\Documents\\Csharp\\GS-VIEW\\GS-Repository\\UserRepository.cs",
+              "RelativeToolTip": "GS-Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T05:19:27.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppUserService.cs",
+              "DocumentMoniker": "C:\\Users\\brued\\Documents\\Csharp\\GS-VIEW\\GS-Service\\AppUserService.cs",
+              "RelativeDocumentMoniker": "GS-Service\\AppUserService.cs",
+              "ToolTip": "C:\\Users\\brued\\Documents\\Csharp\\GS-VIEW\\GS-Service\\AppUserService.cs",
+              "RelativeToolTip": "GS-Service\\AppUserService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T05:34:42.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnergyConsumeService.cs",
+              "DocumentMoniker": "C:\\Users\\brued\\Documents\\Csharp\\GS-VIEW\\GS-Service\\EnergyConsumeService.cs",
+              "RelativeDocumentMoniker": "GS-Service\\EnergyConsumeService.cs",
+              "ToolTip": "C:\\Users\\brued\\Documents\\Csharp\\GS-VIEW\\GS-Service\\EnergyConsumeService.cs",
+              "RelativeToolTip": "GS-Service\\EnergyConsumeService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwDoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T06:12:15.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EquipamentService.cs",
+              "DocumentMoniker": "C:\\Users\\brued\\Documents\\Csharp\\GS-VIEW\\GS-Service\\EquipamentService.cs",
+              "RelativeDocumentMoniker": "GS-Service\\EquipamentService.cs",
+              "ToolTip": "C:\\Users\\brued\\Documents\\Csharp\\GS-VIEW\\GS-Service\\EquipamentService.cs",
+              "RelativeToolTip": "GS-Service\\EquipamentService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T06:10:46.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\brued\\Documents\\Csharp\\GS-VIEW\\GS-Service\\PersonRepository.cs",
+              "RelativeDocumentMoniker": "GS-Service\\PersonRepository.cs",
+              "ToolTip": "C:\\Users\\brued\\Documents\\Csharp\\GS-VIEW\\GS-Service\\PersonRepository.cs",
+              "RelativeToolTip": "GS-Service\\PersonRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T06:08:10.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\brued\\Documents\\Csharp\\GS-VIEW\\GS-VIEW\\Program.cs",
+              "RelativeDocumentMoniker": "GS-VIEW\\Program.cs",
+              "ToolTip": "C:\\Users\\brued\\Documents\\Csharp\\GS-VIEW\\GS-VIEW\\Program.cs",
+              "RelativeToolTip": "GS-VIEW\\Program.cs",
+              "ViewState": "AgIAAPwBAAAAAAAAAAAQwBACAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T05:05:00.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\brued\\Documents\\Csharp\\GS-VIEW\\GS-Repository\\Config.cs",
+              "RelativeDocumentMoniker": "GS-Repository\\Config.cs",
+              "ToolTip": "C:\\Users\\brued\\Documents\\Csharp\\GS-VIEW\\GS-Repository\\Config.cs",
+              "RelativeToolTip": "GS-Repository\\Config.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T05:14:00.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\brued\\Documents\\Csharp\\GS-VIEW\\GS-Model\\Person.cs",
+              "RelativeDocumentMoniker": "GS-Model\\Person.cs",
+              "ToolTip": "C:\\Users\\brued\\Documents\\Csharp\\GS-VIEW\\GS-Model\\Person.cs",
+              "RelativeToolTip": "GS-Model\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T05:06:20.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Equipament.cs",
+              "DocumentMoniker": "C:\\Users\\brued\\Documents\\Csharp\\GS-VIEW\\GS-Model\\Equipament.cs",
+              "RelativeDocumentMoniker": "GS-Model\\Equipament.cs",
+              "ToolTip": "C:\\Users\\brued\\Documents\\Csharp\\GS-VIEW\\GS-Model\\Equipament.cs",
+              "RelativeToolTip": "GS-Model\\Equipament.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T05:07:21.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GS-Repository",
+              "DocumentMoniker": "C:\\Users\\brued\\Documents\\Csharp\\GS-VIEW\\GS-Repository\\GS-Repository.csproj",
+              "RelativeDocumentMoniker": "GS-Repository\\GS-Repository.csproj",
+              "ToolTip": "C:\\Users\\brued\\Documents\\Csharp\\GS-VIEW\\GS-Repository\\GS-Repository.csproj",
+              "RelativeToolTip": "GS-Repository\\GS-Repository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-06T14:19:48.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EnergyConsume.cs",
+              "DocumentMoniker": "C:\\Users\\brued\\Documents\\Csharp\\GS-VIEW\\GS-Model\\EnergyConsume.cs",
+              "RelativeDocumentMoniker": "GS-Model\\EnergyConsume.cs",
+              "ToolTip": "C:\\Users\\brued\\Documents\\Csharp\\GS-VIEW\\GS-Model\\EnergyConsume.cs",
+              "RelativeToolTip": "GS-Model\\EnergyConsume.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T05:07:35.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\brued\\Documents\\Csharp\\GS-VIEW\\GS-Model\\AppUser.cs",
+              "RelativeDocumentMoniker": "GS-Model\\AppUser.cs",
+              "ToolTip": "C:\\Users\\brued\\Documents\\Csharp\\GS-VIEW\\GS-Model\\AppUser.cs",
+              "RelativeToolTip": "GS-Model\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T05:06:45.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GS-Service.csproj",
+              "DocumentMoniker": "C:\\Users\\brued\\Documents\\Csharp\\GS-VIEW\\GS-Service\\GS-Service.csproj",
+              "RelativeDocumentMoniker": "GS-Service\\GS-Service.csproj",
+              "ToolTip": "C:\\Users\\brued\\Documents\\Csharp\\GS-VIEW\\GS-Service\\GS-Service.csproj",
+              "RelativeToolTip": "GS-Service\\GS-Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-06T06:35:04.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GS-Model.csproj",
+              "DocumentMoniker": "C:\\Users\\brued\\Documents\\Csharp\\GS-VIEW\\GS-Model\\GS-Model.csproj",
+              "RelativeDocumentMoniker": "GS-Model\\GS-Model.csproj",
+              "ToolTip": "C:\\Users\\brued\\Documents\\Csharp\\GS-VIEW\\GS-Model\\GS-Model.csproj",
+              "RelativeToolTip": "GS-Model\\GS-Model.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-06T05:06:08.02Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

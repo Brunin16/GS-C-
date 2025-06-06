@@ -1,0 +1,17 @@
+C:\Users\brued\Documents\Csharp\GS-VIEW\GS-Service\obj\Debug\net8.0\GS-Service.csproj.AssemblyReference.cache
+C:\Users\brued\Documents\Csharp\GS-VIEW\GS-Service\obj\Debug\net8.0\GS-Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brued\Documents\Csharp\GS-VIEW\GS-Service\obj\Debug\net8.0\GS-Service.AssemblyInfoInputs.cache
+C:\Users\brued\Documents\Csharp\GS-VIEW\GS-Service\obj\Debug\net8.0\GS-Service.AssemblyInfo.cs
+C:\Users\brued\Documents\Csharp\GS-VIEW\GS-Service\obj\Debug\net8.0\GS-Service.csproj.CoreCompileInputs.cache
+C:\Users\brued\Documents\Csharp\GS-VIEW\GS-Service\bin\Debug\net8.0\GS-Service.deps.json
+C:\Users\brued\Documents\Csharp\GS-VIEW\GS-Service\bin\Debug\net8.0\GS-Service.dll
+C:\Users\brued\Documents\Csharp\GS-VIEW\GS-Service\bin\Debug\net8.0\GS-Service.pdb
+C:\Users\brued\Documents\Csharp\GS-VIEW\GS-Service\bin\Debug\net8.0\GS-Model.dll
+C:\Users\brued\Documents\Csharp\GS-VIEW\GS-Service\bin\Debug\net8.0\GS-Repository.dll
+C:\Users\brued\Documents\Csharp\GS-VIEW\GS-Service\bin\Debug\net8.0\GS-Model.pdb
+C:\Users\brued\Documents\Csharp\GS-VIEW\GS-Service\bin\Debug\net8.0\GS-Repository.pdb
+C:\Users\brued\Documents\Csharp\GS-VIEW\GS-Service\obj\Debug\net8.0\GS-Service.csproj.Up2Date
+C:\Users\brued\Documents\Csharp\GS-VIEW\GS-Service\obj\Debug\net8.0\GS-Service.dll
+C:\Users\brued\Documents\Csharp\GS-VIEW\GS-Service\obj\Debug\net8.0\refint\GS-Service.dll
+C:\Users\brued\Documents\Csharp\GS-VIEW\GS-Service\obj\Debug\net8.0\GS-Service.pdb
+C:\Users\brued\Documents\Csharp\GS-VIEW\GS-Service\obj\Debug\net8.0\ref\GS-Service.dll

@@ -1,0 +1,15 @@
+C:\Users\brued\Documents\Csharp\GS-VIEW\GS-Repository\bin\Debug\net8.0\GS-Repository.deps.json
+C:\Users\brued\Documents\Csharp\GS-VIEW\GS-Repository\bin\Debug\net8.0\GS-Repository.dll
+C:\Users\brued\Documents\Csharp\GS-VIEW\GS-Repository\bin\Debug\net8.0\GS-Repository.pdb
+C:\Users\brued\Documents\Csharp\GS-VIEW\GS-Repository\bin\Debug\net8.0\GS-Model.dll
+C:\Users\brued\Documents\Csharp\GS-VIEW\GS-Repository\bin\Debug\net8.0\GS-Model.pdb
+C:\Users\brued\Documents\Csharp\GS-VIEW\GS-Repository\obj\Debug\net8.0\GS-Repository.csproj.AssemblyReference.cache
+C:\Users\brued\Documents\Csharp\GS-VIEW\GS-Repository\obj\Debug\net8.0\GS-Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brued\Documents\Csharp\GS-VIEW\GS-Repository\obj\Debug\net8.0\GS-Repository.AssemblyInfoInputs.cache
+C:\Users\brued\Documents\Csharp\GS-VIEW\GS-Repository\obj\Debug\net8.0\GS-Repository.AssemblyInfo.cs
+C:\Users\brued\Documents\Csharp\GS-VIEW\GS-Repository\obj\Debug\net8.0\GS-Repository.csproj.CoreCompileInputs.cache
+C:\Users\brued\Documents\Csharp\GS-VIEW\GS-Repository\obj\Debug\net8.0\GS-Repos.454BA7B4.Up2Date
+C:\Users\brued\Documents\Csharp\GS-VIEW\GS-Repository\obj\Debug\net8.0\GS-Repository.dll
+C:\Users\brued\Documents\Csharp\GS-VIEW\GS-Repository\obj\Debug\net8.0\refint\GS-Repository.dll
+C:\Users\brued\Documents\Csharp\GS-VIEW\GS-Repository\obj\Debug\net8.0\GS-Repository.pdb
+C:\Users\brued\Documents\Csharp\GS-VIEW\GS-Repository\obj\Debug\net8.0\ref\GS-Repository.dll

@@ -1,0 +1,11 @@
+C:\Users\brued\Documents\Csharp\GS-VIEW\GS-Model\bin\Debug\net8.0\GS-Model.deps.json
+C:\Users\brued\Documents\Csharp\GS-VIEW\GS-Model\bin\Debug\net8.0\GS-Model.dll
+C:\Users\brued\Documents\Csharp\GS-VIEW\GS-Model\bin\Debug\net8.0\GS-Model.pdb
+C:\Users\brued\Documents\Csharp\GS-VIEW\GS-Model\obj\Debug\net8.0\GS-Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brued\Documents\Csharp\GS-VIEW\GS-Model\obj\Debug\net8.0\GS-Model.AssemblyInfoInputs.cache
+C:\Users\brued\Documents\Csharp\GS-VIEW\GS-Model\obj\Debug\net8.0\GS-Model.AssemblyInfo.cs
+C:\Users\brued\Documents\Csharp\GS-VIEW\GS-Model\obj\Debug\net8.0\GS-Model.csproj.CoreCompileInputs.cache
+C:\Users\brued\Documents\Csharp\GS-VIEW\GS-Model\obj\Debug\net8.0\GS-Model.dll
+C:\Users\brued\Documents\Csharp\GS-VIEW\GS-Model\obj\Debug\net8.0\refint\GS-Model.dll
+C:\Users\brued\Documents\Csharp\GS-VIEW\GS-Model\obj\Debug\net8.0\GS-Model.pdb
+C:\Users\brued\Documents\Csharp\GS-VIEW\GS-Model\obj\Debug\net8.0\ref\GS-Model.dll
